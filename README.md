@@ -22,9 +22,7 @@ Estou em busca da minha primeira oportunidade na área de Desenvolvimento de Sis
 
 
 
-🚀 Feedback
-
-Se você tiver algum feedback, por favor nos deixe saber por meio do e-mail fernandamattosvieira@gmail.com 
+🚀 Se você tiver algum feedback, por favor nos deixe saber por meio do e-mail fernandamattosvieira@gmail.com 
 
 
 
