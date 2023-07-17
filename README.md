@@ -3,7 +3,7 @@
 
 
 
-## 🚀 Sobre mim
+🚀 Sobre mim
 
 Graduada em Relações Internacionais e estou concluindo o curso Técnico em Desenvolvimento de Sistemas em julho de 2023.
 
