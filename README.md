@@ -1,9 +1,9 @@
 
-# Oi, sou a Fernanda! 
+## Oi, sou a Fernanda! 
 
 
 
-🚀 Sobre mim
+🚀  Sobre mim
 
 Graduada em Relações Internacionais e estou concluindo o curso Técnico em Desenvolvimento de Sistemas em julho de 2023.
 
@@ -22,7 +22,7 @@ Estou em busca da minha primeira oportunidade na área de Desenvolvimento de Sis
 
 
 
-## Feedback
+🚀 Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber por meio do e-mail fernandamattosvieira@gmail.com 
 
