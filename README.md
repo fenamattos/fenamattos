@@ -5,11 +5,11 @@
 
 🚀  Sobre mim
 
-Graduada em Relações Internacionais e estou concluindo o curso Técnico em Desenvolvimento de Sistemas em julho de 2023.
+Graduada em Relações Internacionais e formada como Técnica em Desenvolvimento de Sistemas. 
 
-Tenho conhecimento em linguagens de programação: JavaScript, HTML, CSS, Angular, MySql, UX e UI Design, Node.js, React, Git e GitHub. Experiência em projetos Front-End e atualmente estou iniciando os estudos em Back-End.
+Possuo conhecimento em diversas linguagens de programação, tais como JavaScript, HTML, CSS, Angular, MySQL, UX e UI Design, Node.js, React, Git e GitHub. Tenho experiência em projetos Front-End e estou atualmente iniciando meus estudos em Back-End.
 
-Tive uma experiência incrível no evento de hackathon. Fui a primeira colocada junto com meus colegas no dia 17 de junho de 2023, no SENAI/SC.
+Participei de um evento de hackathon que foi uma experiência incrível. Fui a primeira colocada juntamente com meus colegas no dia 17 de junho de 2023, no SENAI/SC.
 
 Estou em busca da minha primeira oportunidade na área de Desenvolvimento de Sistemas.
 
