@@ -11,8 +11,6 @@ Possuo conhecimento em diversas linguagens de programação, tais como JavaScrip
 
 Participei de um evento de hackathon que foi uma experiência incrível. Fui a primeira colocada juntamente com meus colegas no dia 17 de junho de 2023, no SENAI/SC.
 
-Estou em busca da minha primeira oportunidade na área de Desenvolvimento de Sistemas.
-
 
 ![Logo](https://s.tmimgcdn.com/scr/800x500/275700/cabeca-de-gato-bonito-logotipo-dos-desenhos-animados-cabeca-de-gato-bom-para-produtos-relacionados-ao-cuidado-do-gato-v1_275729-original.jpg)
 
