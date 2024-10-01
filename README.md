@@ -1,18 +1,18 @@
 
-## Oi, sou a Fernanda! 
+## Oi, me chamo Fernanda! 
 
+🚀  Sobre mim... 
 
+Sou surda, uso minhas mãos para se comunicar com a galerinha por meio de Lingua Brasileira de Sinais (LIBRAS). 
 
-🚀  Sobre mim
+Graduada em Relações Internacionais, formada como Técnica em Desenvolvimento de Sistemas e atualmente estudo Análise e Desenvolvimento de Sistemas no IFSC/São José.
 
-Graduada em Relações Internacionais e formada como Técnica em Desenvolvimento de Sistemas. 
+Possuo conhecimento em diversas linguagens de programação, tais como JavaScript, JAVA, HTML, CSS, Angular, Node.js.
 
-Possuo conhecimento em diversas linguagens de programação, tais como JavaScript, HTML, CSS, Angular, MySQL, UX e UI Design, Node.js, React, Git e GitHub. Tenho experiência em projetos Front-End e estou atualmente iniciando meus estudos em Back-End.
+Tenho experiência em projetos Front-End e estou atualmente iniciando meus estudos em Back-End.
 
 Participei de um evento de hackathon que foi uma experiência incrível. Fui a primeira colocada juntamente com meus colegas no dia 17 de junho de 2023, no SENAI/SC.
 
-
-![Logo](https://s.tmimgcdn.com/scr/800x500/275700/cabeca-de-gato-bonito-logotipo-dos-desenhos-animados-cabeca-de-gato-bom-para-produtos-relacionados-ao-cuidado-do-gato-v1_275729-original.jpg)
 
 ## 🔗 Links
 
@@ -20,7 +20,7 @@ Participei de um evento de hackathon que foi uma experiência incrível. Fui a p
 
 
 
-🚀 Se você tiver algum feedback, por favor nos deixe saber por meio do e-mail fernandamattosvieira@gmail.com 
+🚀 Se você tiver algum feedback, por favor entrar em contato comigo por meio do e-mail fernandamattosvieira@gmail.com 
 
 
 
