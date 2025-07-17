@@ -1,26 +1,20 @@
+- - -
+### Olá!!!
 
-## Oi, me chamo Fernanda! 
+Sou surda e me comunico com o mundo por meio da Língua Brasileira de Sinais (LIBRAS). Minhas mãos são minha voz!
 
-🚀  Sobre mim... 
+Apaixonada por tecnologia e movida pela vontade de criar um mundo mais acessível, atuo no desenvolvimento Front-End, onde unir design, código e inclusão é o que mais me inspira.
 
-Sou surda, uso minhas mãos para se comunicar com a galerinha por meio de Lingua Brasileira de Sinais (LIBRAS). 
+Formada em Relações Internacionais, mergulhei no universo da tecnologia com a formação técnica em Desenvolvimento de Sistemas, e hoje sigo evoluindo no curso de Análise e Desenvolvimento de Sistemas no IFSC/São José.
 
-Graduada em Relações Internacionais, formada como Técnica em Desenvolvimento de Sistemas e atualmente estudo Análise e Desenvolvimento de Sistemas no IFSC/São José.
+JavaScript é meu playground favorito. HTML e CSS me ajudam a expressar ideias com estilo e estrutura. E o Java? Estou praticando com foco total, passo a passo.
 
-Possuo conhecimento em diversas linguagens de programação, tais como JavaScript, JAVA, HTML, CSS, Angular, Node.js.
+Atualmente, pesquiso o uso da Inteligência Artificial aplicada à acessibilidade, desenvolvendo um projeto que integra IA e Libras, tudo para que a tecnologia fale com todos.
 
-Tenho experiência em projetos Front-End e estou atualmente iniciando meus estudos em Back-End.
+Em 2023, meu time conquistou o 1º lugar em um Hackathon do SENAI/SC. Foi intenso, desafiador e incrível!
 
-Participei de um evento de hackathon que foi uma experiência incrível. Fui a primeira colocada juntamente com meus colegas no dia 17 de junho de 2023, no SENAI/SC.
-
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-mattos-vieira-surda-622200153/)
-
+Sigo construindo soluções que unem pessoas, ideias e acessibilidade. Porque tecnologia só faz sentido quando é para todos.
 
 
 🚀 Se você tiver algum feedback, por favor entrar em contato comigo por meio do e-mail fernandamattosvieira@gmail.com 
-
-
-
+- - - 
